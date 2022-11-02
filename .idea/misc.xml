@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_audio_compress.xml" value="0.187683284457478" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_audio_cutter.xml" value="0.187683284457478" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_audio_joiner.xml" value="0.187683284457478" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_audio_video_mixer.xml" value="0.187683284457478" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_collage_maker.xml" value="0.187683284457478" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_fast_motion.xml" value="0.1" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_gallery_list.xml" value="0.31527777777777777" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_gallery_photos.xml" value="0.31527777777777777" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_gif_preview.xml" value="0.31527777777777777" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_movie_maker_slideshow.xml" value="0.187683284457478" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_no_internet.xml" value="0.187683284457478" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_slow_motion.xml" value="0.1927710843373494" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_splash.xml" value="0.31527777777777777" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_status_list.xml" value="0.187683284457478" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_video_compressor.xml" value="0.187683284457478" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_video_converter.xml" value="0.31527777777777777" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_video_cropper.xml" value="0.1927710843373494" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_video_cutter.xml" value="0.1927710843373494" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_video_joiner.xml" value="0.187683284457478" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/activity_video_mirror.xml" value="0.31527777777777777" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/audio_player.xml" value="0.2057877813504823" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/select_music.xml" value="0.31527777777777777" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/select_video_collage_fragment.xml" value="0.31527777777777777" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/slideshow_select_image_list.xml" value="0.31527777777777777" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/videomyfragment.xml" value="0.31527777777777777" />
+        <entry key="..\:/dokihopo/Vaiolatiopn/ProVideoEditor 2 2/app/src/main/res/layout/videoplayer.xml" value="0.31527777777777777" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
